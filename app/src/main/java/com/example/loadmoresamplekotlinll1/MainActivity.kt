@@ -52,9 +52,7 @@ class MainActivity : AppCompatActivity(), ItemOnClick {
                         loadMore()
                         isLoading = true
                     }
-
                 }
-
             }
         })
     }
